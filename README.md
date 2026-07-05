@@ -1,5 +1,5 @@
 # Kavya
- This is my first Git Repository 
+<h1> This is my first Git Repository </h1>
 <br>
 # Introduction
 I'm Kavya Gamre. This repository is where I record my projects,learn and experiment with coding.
@@ -12,8 +12,8 @@ Currently Learning ⬇️
 <br>
 - Python
   <br>
-  <br>
-  # Conclusion 
+
+# Conclusion 
   <br>
   This Repository serves as a record of my coding journey.
    <br>
