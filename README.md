@@ -1,5 +1,5 @@
 # Kavya
-<h1> This is my first Git Repository </h1>
+ This is my first Git Repository
 <br>
 # Introduction
 I'm Kavya Gamre. This repository is where I record my projects,learn and experiment with coding.
